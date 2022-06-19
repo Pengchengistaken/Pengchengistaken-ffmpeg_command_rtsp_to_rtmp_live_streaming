@@ -1,5 +1,6 @@
 # Pengchengistaken-ffmpeg_command_rtsp_to_rtmp_live_streaming
-Change "your-rtmp-live-streaming-address-and-access-key" to your application's address and acccess key.
+* with this command, it will not invole your server/PC's GPU, so you can run it on low hardware config PC.
+* Change "your-rtmp-live-streaming-address-and-access-key" to your application's address and acccess key.
 
 # for windows
 ```
